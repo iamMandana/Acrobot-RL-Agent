@@ -31,8 +31,6 @@ The implementation includes a custom replay buffer, SumTree data structure for P
 
 ### Episode Rewards Comparison
 
-![Training Performance](images/training_comparison.png)
-
 The comparison shows that Prioritized Experience Replay significantly improves learning efficiency, with DQN+PER converging faster and achieving better final performance.
 
 ## Agent Behavior Videos
